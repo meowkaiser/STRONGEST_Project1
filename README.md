@@ -19,6 +19,6 @@ Microsoft has created a new movie studio and they wish to know what type of film
 
 ## Conclusion
 We recommend that Microsoft takes the following approaches when producing their own movie
-*Have a large enough budget
-*Make sure the movie is long enough to tell the story necessary
-*Aim for a pg-13 rating
+* Have a large enough budget
+* Make sure the movie is long enough to tell the story necessary
+* Aim for a pg-13 rating
