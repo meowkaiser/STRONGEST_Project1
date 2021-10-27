@@ -4,7 +4,9 @@ We have been given many different data sets including
 * imdb ratings
 * rotten tomatoes
 * various reviews
-* movie budges
+* movie budget
+
+We're going to go through these data sets in order to have a better understanding of what factors are important in making a successful movie.
 ## Business Understanding
 Microsoft has created a new movie studio and they wish to know what type of films to create
 * Which genre is most popular?
@@ -16,6 +18,9 @@ Microsoft has created a new movie studio and they wish to know what type of film
 ![image](https://user-images.githubusercontent.com/12703065/139083390-bccf9a9b-6d67-4e6a-bcb9-6dfc2225ecd1.png)
 
 ![image](https://user-images.githubusercontent.com/12703065/139083630-f594ab5b-c264-4cdf-ac3b-a34b980478a6.png)
+
+![image](https://user-images.githubusercontent.com/12703065/139084603-bace721d-3982-4ca4-9eda-59c3f296fd25.png)
+
 
 ## Conclusion
 We recommend that Microsoft takes the following approaches when producing their own movie
