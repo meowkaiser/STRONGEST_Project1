@@ -1,12 +1,13 @@
 # Microsoft Movie Recommendation
 ## Overview
-We have been given many different data sets including
+We have been given many different data sets including:
 * imdb ratings
 * rotten tomatoes
 * various reviews
-* movie budget
+* movie budgets
 
 We're going to go through these data sets in order to have a better understanding of what factors are important in making a successful movie.
+
 ## Business Understanding
 Microsoft has created a new movie studio and they wish to know what type of films to create
 * Which genre is most popular?
