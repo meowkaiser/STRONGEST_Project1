@@ -16,9 +16,9 @@ Microsoft has created a new movie studio and they wish to know what type of film
 
 Our goal after taking a deep dive into the data is to be able to provide Microsoft with some strategies for their filmmaking process so that they can maximize profits while reducing risk
 ## Data Understanding and Analysis
-![image](https://user-images.githubusercontent.com/12703065/139083319-37e984ea-11f1-46bc-848b-0c80e116a0bd.png)
+![image](https://user-images.githubusercontent.com/73855593/139341591-6f4cdd90-be41-476b-98e9-588b9b62b06b.png)
 
-![image](https://user-images.githubusercontent.com/12703065/139083390-bccf9a9b-6d67-4e6a-bcb9-6dfc2225ecd1.png)
+![image](https://user-images.githubusercontent.com/73855593/139341610-e7c7e95f-a907-46f0-bf4c-b541818b1946.png)
 
 As we can see by these graphs if there is a bigger budget there is a bigger return on investment.
 
@@ -26,11 +26,13 @@ As we can see by these graphs if there is a bigger budget there is a bigger retu
 
 In general film runtime doesn't have a large effect on the rating, however a longer movie has slightly higher ratings
 
-![image](https://user-images.githubusercontent.com/12703065/139263131-e8ce9def-10bb-4284-8179-aa817047377e.png)
+![image](https://user-images.githubusercontent.com/73855593/139341330-c33497b6-b8cb-4b22-b275-def7c3abe60d.png)
+![image](https://user-images.githubusercontent.com/73855593/139341375-a3433c9e-fcb3-4437-86cd-d8c5a9a4522c.png)
+
 
 Rated R movies have the highest potential for profits, however PG-13 movies are consistently profitable.
 
-![image](https://user-images.githubusercontent.com/12703065/139263223-26962ed2-815c-499b-a65c-4ca5f5506d71.png)
+![image](https://user-images.githubusercontent.com/73855593/139341420-9139e8ea-f667-4a5a-94d4-74e3100259b3.png)
 
 Buena Vista, Warner Bros. and Universal Studios are leading the industry so it's important to look into what they're doing correctly
 
