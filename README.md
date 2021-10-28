@@ -42,4 +42,5 @@ After analyzing the data, we recommend that Microsoft takes the following approa
 These strategies will reduce risk and maximize potential profits.
 
 [Project Notebook](https://github.com/meowkaiser/STRONGEST_Project1/blob/main/Final_notebook.ipynb)
+
 [Presentation](https://docs.google.com/presentation/d/10B_Zq0XGJDtXAyG_2E6W3330rtobWPxK3R64iI1TK6U/)
