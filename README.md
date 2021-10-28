@@ -13,6 +13,8 @@ Microsoft has created a new movie studio and they wish to know what type of film
 * Which genre is most popular?
 * Does runtime matter?
 * Which director produces consistently popular movies?
+
+Our goal after taking a deep dive into the data is to be able to provide Microsoft with some strategies for their filmmaking process so that they can maximize profits while reducing risk
 ## Data Understanding and Analysis
 ![image](https://user-images.githubusercontent.com/12703065/139083319-37e984ea-11f1-46bc-848b-0c80e116a0bd.png)
 
@@ -22,12 +24,19 @@ As we can see by these graphs if there is a bigger budget there is a bigger retu
 
 ![image](https://user-images.githubusercontent.com/12703065/139083630-f594ab5b-c264-4cdf-ac3b-a34b980478a6.png)
 
-![image](https://user-images.githubusercontent.com/12703065/139084603-bace721d-3982-4ca4-9eda-59c3f296fd25.png)
+In general film runtime doesn't have a large effect on the rating, however a longer movie has slightly higher ratings
 
-![image](https://user-images.githubusercontent.com/12703065/139087866-a417993d-7dd0-409b-b2d8-a947d06fe70d.png)
+![image](https://user-images.githubusercontent.com/12703065/139263131-e8ce9def-10bb-4284-8179-aa817047377e.png)
+
+Rated R movies have the highest potential for profits, however PG-13 movies are consistently profitable.
+
+![image](https://user-images.githubusercontent.com/12703065/139263223-26962ed2-815c-499b-a65c-4ca5f5506d71.png)
+
+Buena Vista, Warner Bros. and Universal Studios are leading the industry so it's important to look into what they're doing correctly
 
 ## Conclusion
-We recommend that Microsoft takes the following approaches when producing their own movie
+After analyzing the data, we recommend that Microsoft takes the following approaches when producing their own movie
 * Have a large enough budget
 * Make sure the movie is long enough to tell the story necessary
 * Aim for a pg-13 rating
+These strategies will reduce risk and maximize potential profits.
