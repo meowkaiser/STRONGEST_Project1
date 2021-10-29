@@ -1,21 +1,27 @@
 # Microsoft Movie Recommendation
+
 ## Overview
-We have been given many different data sets including:
+
+Microsoft has approached us for recommendations on how they should approach stepping into the movie industry. We've analyzed various data sets (listed below) and will describe our findings and final recommendations throughout this document.  
+
+Data Sets:
 * imdb ratings
 * rotten tomatoes
 * various reviews
 * movie budgets
 
-We're going to go through these data sets in order to have a better understanding of what factors are important in making a successful movie.
-
 ## Business Understanding
-Microsoft has created a new movie studio and they wish to know what type of films to create
-* Which genre is most popular?
-* Does runtime matter?
-* Which director produces consistently popular movies?
 
-Our goal after taking a deep dive into the data is to be able to provide Microsoft with some strategies for their filmmaking process so that they can maximize profits while reducing risk
+We'll be looking to answer the following questions to help us better understand the layout of the movie industry. This will help us provide clear and succicnt guidance for Microsoft's movie endeavor. 
+
+* Are there genres more popular than others?
+* Does runtime matter?
+* Is there a rating that outperforms others?
+* Is there any correlation between net profit and budget?
+
 ## Data Understanding and Analysis
+
+
 ![image](https://user-images.githubusercontent.com/73855593/139341591-6f4cdd90-be41-476b-98e9-588b9b62b06b.png)
 
 ![image](https://user-images.githubusercontent.com/73855593/139341610-e7c7e95f-a907-46f0-bf4c-b541818b1946.png)
