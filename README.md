@@ -27,8 +27,7 @@ The first analysis we wanted to perform was checking to see if there was a clear
 
 By the graph above, we can see that Fantasy and Adventures have a higher average rating in comparison against other genres. There's certainly a trend bias in the movie industry where just because the last 11 years of data shows us these two genres as a favorite, doesn't necessarily mean we'll see the same trend over the next 10.
 
-If you want to see we came to the following conclusion in more detail, feel free to check out the below link:
-https://github.com/meowkaiser/STRONGEST_Project1/blob/main/imbd_title_ratings_basics.ipynb
+If you want to see we came to the following conclusion in more detail, check out my [notebook](https://github.com/meowkaiser/STRONGEST_Project1/blob/main/imbd_title_ratings_basics.ipynb)
 
 
 ![image](https://user-images.githubusercontent.com/73855593/139341591-6f4cdd90-be41-476b-98e9-588b9b62b06b.png)
@@ -56,6 +55,7 @@ After analyzing the data, we recommend that Microsoft takes the following approa
 * Have a large enough budget
 * Make sure the movie is long enough to tell the story necessary
 * Aim for a pg-13 rating
+
 These strategies will reduce risk and maximize potential profits.
 
 [Project Notebook](https://github.com/meowkaiser/STRONGEST_Project1/blob/main/Final_notebook.ipynb)
