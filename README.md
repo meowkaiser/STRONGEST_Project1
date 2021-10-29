@@ -52,11 +52,15 @@ Buena Vista, Warner Bros. and Universal Studios are leading the industry so it's
 
 ## Conclusion
 After analyzing the data, we recommend that Microsoft takes the following approaches when producing their own movie
-* Have a large enough budget
-* Make sure the movie is long enough to tell the story necessary
-* Aim for a pg-13 rating
+* Moderately strong correlation between spending money and profit with diminishing returns >200m.
+* Aim to tell the story instead of aiming for a target run-time.
+* Aim for a PG-13 rating.
+* Should target to make a Fantasy and/or Adventure genre movie.
 
 These strategies will reduce risk and maximize potential profits.
+
+
+Links:
 
 [Project Notebook](https://github.com/meowkaiser/STRONGEST_Project1/blob/main/Final_notebook.ipynb)
 
