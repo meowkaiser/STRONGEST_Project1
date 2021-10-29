@@ -23,7 +23,7 @@ We'll be looking to answer the following questions to help us better understand 
 
 The first analysis we wanted to perform was checking to see if there was a clear winner in terms of genres so that we'd be able to provide Microsoft with clear direction for building out their team and their first film. We combined two different IMDB tables and cleaned up data to give us a list of roughly 72,000 records containing genre and average rating where we were then able to dig further and graph the highest performers. We put a floor of 100 votes in order to remove some type of skew by a movie having a few extreme ratings. 
 
-[PUT ALARSEN GRAPH HERE]
+![image](https://user-images.githubusercontent.com/73855593/139440379-3f900a3c-86da-48a9-9bef-86a976633ffd.png)
 
 By the graph above, we can see that Fantasy and Adventures have a higher average rating in comparison against other genres. There's certainly a trend bias in the movie industry where just because the last 11 years of data shows us these two genres as a favorite, doesn't necessarily mean we'll see the same trend over the next 10.
 
